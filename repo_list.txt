@@ -1,0 +1,26 @@
+﻿# 한 줄에 하나씩 Git repo 로컬 경로를 넣으세요.
+# 빈 줄과 # 주석은 무시됩니다.
+#
+# 현재 구조 예시:
+# - 프로젝트 루트가 repo면 루트 경로 입력
+# - Assets 내부 폴더가 각각 별도 repo면 각 폴더 경로 입력
+#
+# 이 버전은 .git 폴더 직접 검사 대신
+# git -C "경로" rev-parse --show-toplevel 로 repo를 판정합니다.
+# 그래서 .git 파일 방식, worktree, submodule 형태도 잡습니다.
+
+E:\unity\TeamSandBox
+E:\unity\TeamSandBox\Assets\AddressableAssetsData
+E:\unity\TeamSandBox\Assets\AssetStore
+E:\unity\TeamSandBox\Assets\Editor
+E:\unity\TeamSandBox\Assets\Fonts
+E:\unity\TeamSandBox\Assets\model-Characters
+E:\unity\TeamSandBox\Assets\model-Enviroments
+E:\unity\TeamSandBox\Assets\Prefabs
+E:\unity\TeamSandBox\Assets\Resources
+E:\unity\TeamSandBox\Assets\Scenes
+E:\unity\TeamSandBox\Assets\Scripts
+E:\unity\TeamSandBox\Assets\Settings
+E:\unity\TeamSandBox\Assets\Sounds
+E:\unity\TeamSandBox\Assets\UI
+E:\unity\TeamSandBox\Assets\VFX
